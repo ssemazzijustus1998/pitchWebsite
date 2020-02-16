@@ -732,11 +732,24 @@ a:focus,
 	padding: 30px;
 }
 
-#mu-video li{
+#do3{
 
 	border-style: groove;
 	border-width: medium;
+	margin-top: 20px;
+	padding: 20px;
 }
+
+#do1{
+
+float:left;
+}
+#do2{
+
+float:right;
+}
+
+
 .mu-video-left {
 	background-image: url(assets/images/video-img.jpg);
 	display: inline;
@@ -1539,21 +1552,6 @@ a:focus,
 	background-color: transparent;
 }
 
-/*--------------------*/
-/* GOOGLE MAP */
-/*--------------------*/
-
-#mu-google-map {
-	display: inline;
-	float: left;
-	width: 100%;
-	margin-bottom: -7px;
-}
-
-#mu-google-map iframe {
-	height: 450px;
-	width: 100%;
-}
 
 /*--------------------*/
 /* FOOTER */

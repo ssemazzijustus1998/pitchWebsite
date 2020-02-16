@@ -599,7 +599,7 @@ a:focus,
 /*--------------------*/
 
 #mu-call-to-action {
-	background-image: url(assets/images/call-to-action-bg.jpg);
+	background-color: antiquewhite;
 	float: left;
 	position: relative;
 	width: 100%;
@@ -619,7 +619,7 @@ a:focus,
 .mu-call-to-action-area {
 	display: inline;
 	float: left;
-	padding: 70px 0;
+	padding: 10px 0;
 	width: 100%;
 }
 

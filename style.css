@@ -3123,6 +3123,7 @@ float:right;
 
 	.mu-about-right {
 		margin-top: 30px;
+		text-align: center;
 	}
 
 	#mu-service {
@@ -3162,7 +3163,14 @@ float:right;
 	}
 
 	.mu-single-service-content {
-		margin-left: 20px;
+		margin-left: 70px;
+		text-align: center;
+	}
+
+	.mu-single-service-icon {
+		margin-left: 150px;
+		/* text-align: center; */
+
 	}
 
 	.mu-counter-area {
